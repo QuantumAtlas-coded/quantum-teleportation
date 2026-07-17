@@ -73,6 +73,11 @@ pip install qiskit qiskit-aer matplotlib numpy pylatexenc
 
 python quantum_teleportation.py
 ```
+## Live Demo
+
+▶️ [View Interactive Simulation](https://quantumatlas-coded.github.io/quantum-teleportation/teleportation_interactive.html)
+
+![Teleportation Animation](teleportation_animation.gif)
 
 ---
 
